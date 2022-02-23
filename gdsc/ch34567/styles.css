@@ -1,0 +1,6 @@
+.main > *{
+    margin: 10px;
+}
+.status{
+    display: none;
+}
